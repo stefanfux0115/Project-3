@@ -15,4 +15,4 @@ The analysis uses two main datasets:
 All cleaning, visualization, and analysis are done in Python.
 
 👉 **View the full interactive report:**  
-[Open `final_project.html`](./final_project.html)
+[Open `project_3.html`](./project_3.html)
